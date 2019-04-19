@@ -40,7 +40,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 ## **ICON PACKS**
 Papirus Adaptive  Famous gtk icon theme port also adaptive
-[download(https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
 
 Asus Adaptive     Asus ZenuUI™ 4 and 5 icons and fully adaptive.
 [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
