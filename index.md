@@ -22,6 +22,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
  - Nova Launcher
  
  ## **FAQs:**
+ 
 **Q: Why it says Device Unsupported?**  
 **A:** Adaptive icons are introduced in Android 8.0. So, The Icon Pack only works on Android 8.0+ Devices.  
   
