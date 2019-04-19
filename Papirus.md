@@ -19,7 +19,6 @@ A famous gtk icon theme port for android.
 
 
 ## Downloads:
-
  - [GitHub Releases](https://github.com/osmanonurkoc/papirusadaptive/releases)
  - [Telegram Release Channel](https://t.me/papirusadaptive)
 
