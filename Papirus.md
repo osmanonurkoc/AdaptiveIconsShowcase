@@ -17,7 +17,6 @@ A famous gtk icon theme port for android.
 **Folders**
 ![enter image description here](https://1.bp.blogspot.com/-R-jKuTk_2cc/XLpAl-vr_aI/AAAAAAAAE8E/dmCiyDZAZO8pymaIA59rXQUxK9Cpj5NHQCLcBGAs/s1600/folders.png)
 
-
 ## Downloads:
  - [GitHub Releases](https://github.com/osmanonurkoc/papirusadaptive/releases)
  - [Telegram Release Channel](https://t.me/papirusadaptive)
