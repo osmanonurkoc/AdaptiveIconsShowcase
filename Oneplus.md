@@ -1,4 +1,4 @@
-## MIUI Adaptive Icon Pack
+## OnePlus Adaptive Icon Pack
     Standart OxygenOS icons.Only difference is these are adaptive!
 
 ## Screenshots:
