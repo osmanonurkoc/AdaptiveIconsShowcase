@@ -39,15 +39,26 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 
 ## **ICON PACKS**
-| Names:           | Description:                                                   | Downloads:                                                               |
-|------------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
-| Papirus Adaptive | Famous gtk icon theme port also adaptive.                      | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus) |
-| Asus Adaptive    | Asus ZenuUI™ 4 and 5 icons and fully adaptive.                 | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)    |
-| LG Adaptive      | LG Icons are fully adaptive!                                   | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)      |
-| MIUI Adaptive    | MIUI™ icons are material and adaptive.                         | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)    |
-| OnePlus Adaptive | Standart OxygenOS icons.Only difference is these are adaptive! | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus) |
-| Samsung Adaptive | Samsung OneUI icons are fully adaptive.                        | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung) |
-| Sony Adaptive    | Xperia Icons are fully adaptive.                               | [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)    |
+Papirus Adaptive  Famous gtk icon theme port also adaptive
+[download(https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
+
+Asus Adaptive     Asus ZenuUI™ 4 and 5 icons and fully adaptive.
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
+
+LG Adaptive       LG Icons are fully adaptive!
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
+
+MIUI Adaptive     MIUI™ icons are material and adaptive.
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
+
+OnePlus Adaptive  Standart OxygenOS icons.Only difference is these are adaptive!
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
+
+Samsung Adaptive  Samsung OneUI icons are fully adaptive.
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
+
+Sony Adaptive     Xperia Icons are fully adaptive.
+[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
 
 
 
