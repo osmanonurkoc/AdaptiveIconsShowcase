@@ -30,7 +30,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
  - Hyperion Launcher: Go to Launcher's Home Settings. Open "Iconography", Then Choose Icon Pack. Change the shape as you want.  
  - Nova Launcher: Go to Launcher's Settings. Open "Look & Feel", Then open "Icon Style", Choose Icon Pack. Change shape as you want.
 
- ## Frequently Asked Questions:
+ ****[Frequently Asked Questions:]****
  
 **Q: Why it says Device Unsupported?**  
 **A:** Adaptive icons are introduced in Android 8.0. So, The Icon Pack only works on Android 8.0+ Devices.  
@@ -42,9 +42,10 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 ## **ICON PACKS:**
 ![](https://3.bp.blogspot.com/-IF1fZfzh9_g/XLpxi0oNHyI/AAAAAAAAE9M/eMk0XmPXnlk2oJfRIcRJqyUXRu6Nu2JzgCLcBGAs/s1600/logo.png)
 
-    Papirus Adaptive - Famous gtk icon theme port also adaptive
 
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://3.bp.blogspot.com/-es1zBghUF3k/XLokq_QnbgI/AAAAAAAAE7k/5cEPeJXhg4wVKD_pQ5jCMdobVcURJr59ACLcBGAs/s1600/papirus.png"></a> <a href=""><img src="https://2.bp.blogspot.com/-fxIchXplrmk/XLp2dO4bbJI/AAAAAAAAE9Y/sxIwL1tCIOoej4hqD1lRZmOEQBkfyZ10gCLcBGAs/s1600/papirus.png"></a>
+
+   <a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
     Asus Adaptive    - Asus ZenuUI™ 4 and 5 icons and fully adaptive.
 
