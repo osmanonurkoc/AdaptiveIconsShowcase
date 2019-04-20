@@ -59,6 +59,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
    [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
 
     OnePlus Adaptive - Standart OxygenOS icons.Only difference is these are adaptive.
+    
    [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
 
     Samsung Adaptive - Samsung OneUI icons are fully adaptive.
