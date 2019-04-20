@@ -21,7 +21,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
  - Lean Launcher
  - Nova Launcher
  
- ## FAQs:
+ ## FAQs
  
 **Q: Why it says Device Unsupported?**  
 **A:** Adaptive icons are introduced in Android 8.0. So, The Icon Pack only works on Android 8.0+ Devices.  
@@ -40,25 +40,31 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 ## **ICON PACKS**
 Papirus Adaptive  Famous gtk icon theme port also adaptive
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
 
 Asus Adaptive     Asus ZenuUI™ 4 and 5 icons and fully adaptive.
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
 
 LG Adaptive       LG Icons are fully adaptive!
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
 
 MIUI Adaptive     MIUI™ icons are material and adaptive.
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
 
 OnePlus Adaptive  Standart OxygenOS icons.Only difference is these are adaptive!
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
 
 Samsung Adaptive  Samsung OneUI icons are fully adaptive.
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
 
 Sony Adaptive     Xperia Icons are fully adaptive.
-[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
+
+  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
 
 
 
