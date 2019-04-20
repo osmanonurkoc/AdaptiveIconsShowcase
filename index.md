@@ -43,7 +43,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 ![](https://3.bp.blogspot.com/-IF1fZfzh9_g/XLpxi0oNHyI/AAAAAAAAE9M/eMk0XmPXnlk2oJfRIcRJqyUXRu6Nu2JzgCLcBGAs/s1600/logo.png)
 
 
-<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://3.bp.blogspot.com/-es1zBghUF3k/XLokq_QnbgI/AAAAAAAAE7k/5cEPeJXhg4wVKD_pQ5jCMdobVcURJr59ACLcBGAs/s1600/papirus.png"></a> <a href=""><img src="https://2.bp.blogspot.com/-fxIchXplrmk/XLp2dO4bbJI/AAAAAAAAE9Y/sxIwL1tCIOoej4hqD1lRZmOEQBkfyZ10gCLcBGAs/s1600/papirus.png"></a>
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://1.bp.blogspot.com/-MhNcWfIHKm8/XLp7lFXeorI/AAAAAAAAE-M/RO_T1yFnIm8puyExDwEf0kXdlEGgXzXnACLcBGAs/s1600/header_papirus.png"></a> <a href=""><img src="https://2.bp.blogspot.com/-fxIchXplrmk/XLp2dO4bbJI/AAAAAAAAE9Y/sxIwL1tCIOoej4hqD1lRZmOEQBkfyZ10gCLcBGAs/s1600/papirus.png"></a>
 
    <a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
