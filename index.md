@@ -1,4 +1,4 @@
-# Adaptive Icon Packs
+## Adaptive Icon Packs
 
 Hi guys I created several icon packs for adaptive icons supported launchers. You can access them here.
 
