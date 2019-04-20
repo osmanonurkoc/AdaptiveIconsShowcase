@@ -38,33 +38,35 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 
 
-## **ICON PACKS**
-Papirus Adaptive  Famous gtk icon theme port also adaptive
+## **ICON PACKS:**
+![](https://3.bp.blogspot.com/-IF1fZfzh9_g/XLpxi0oNHyI/AAAAAAAAE9M/eMk0XmPXnlk2oJfRIcRJqyUXRu6Nu2JzgCLcBGAs/s1600/logo.png)
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
+    Papirus Adaptive - Famous gtk icon theme port also adaptive
 
-Asus Adaptive     Asus ZenuUI™ 4 and 5 icons and fully adaptive.
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
+    Asus Adaptive    - Asus ZenuUI™ 4 and 5 icons and fully adaptive.
 
-LG Adaptive       LG Icons are fully adaptive!
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
+    LG Adaptive      - LG Icons are fully adaptive!
 
-MIUI Adaptive     MIUI™ icons are material and adaptive.
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
+    MIUI Adaptive    - MIUI™ icons are material and adaptive.
 
-OnePlus Adaptive  Standart OxygenOS icons.Only difference is these are adaptive!
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
 
-Samsung Adaptive  Samsung OneUI icons are fully adaptive.
+    OnePlus Adaptive - Standart OxygenOS icons.Only difference is these are adaptive.
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
+    Samsung Adaptive - Samsung OneUI icons are fully adaptive.
 
-Sony Adaptive     Xperia Icons are fully adaptive.
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
 
-  [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
+    Sony Adaptive    - Xperia Icons are fully adaptive.
+
+       [download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
 
 
 
