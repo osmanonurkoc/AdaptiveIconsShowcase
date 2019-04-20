@@ -30,7 +30,7 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
  - Hyperion Launcher: Go to Launcher's Home Settings. Open "Iconography", Then Choose Icon Pack. Change the shape as you want.  
  - Nova Launcher: Go to Launcher's Settings. Open "Look & Feel", Then open "Icon Style", Choose Icon Pack. Change shape as you want.
 
- ****[Frequently Asked Questions:]****
+ **Frequently Asked Questions:**
  
 **Q: Why it says Device Unsupported?**  
 **A:** Adaptive icons are introduced in Android 8.0. So, The Icon Pack only works on Android 8.0+ Devices.  
@@ -62,33 +62,30 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 <a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
-   
-   
 
-    MIUI Adaptive    - MIUI™ icons are material and adaptive.
+![](https://4.bp.blogspot.com/-tdR-WBmDtNI/XLp7jsIXRRI/AAAAAAAAE-E/DduRxd1AgDM5gUwFiI1iLpH47GFBkgypwCLcBGAs/s1600/header_miui.png)
 
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
+![](https://2.bp.blogspot.com/-5nX1sINCESQ/XLp-gRw7G5I/AAAAAAAAE-0/wht-QMR2pOE1cr1Nj2-VzO3egIH8eRQ7QCLcBGAs/s1600/text_miui.png)
 
-    OnePlus Adaptive - Standart OxygenOS icons.Only difference is these are adaptive.
-    
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
-
-    Samsung Adaptive - Samsung OneUI icons are fully adaptive.
-
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
-
-    Sony Adaptive    - Xperia Icons are fully adaptive.
-
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
 
+![](https://3.bp.blogspot.com/-L5k9YuD9wFs/XLp7kZckAQI/AAAAAAAAE-I/pwFXljrdbSYwlOyv5rgPUoaOKdmC0akwgCLcBGAs/s1600/header_oneplus.png)
 
- 
-  
+![](https://1.bp.blogspot.com/-FuFc_rsu_KI/XLp-hLjeJ2I/AAAAAAAAE-8/cO65o0dtqUwbplFldswfZbx5f_hOgy4uACLcBGAs/s1600/text_oneplus.png)
 
-  
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
-  
 
- 
+![](https://3.bp.blogspot.com/-5bhd9b44teE/XLp7lsvoL-I/AAAAAAAAE-Q/cOUqH7GzJzoyuRM97pjlr2oVZXGB8smrgCLcBGAs/s1600/header_samsung.png)
 
+![](https://3.bp.blogspot.com/-pre8dp3ikzE/XLp-hjpcZYI/AAAAAAAAE_E/cmsruKtPUusfO068wEOJFSpht5la6jRCgCLcBGAs/s1600/text_samsung.png)
+
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
+
+
+![](https://4.bp.blogspot.com/--IETb-ZGG4A/XLp7lzQ03eI/AAAAAAAAE-U/DFw5wLIIKyshPEXx85Q_pTzLhBMWiFgeACLcBGAs/s1600/header_sony.png)
+
+![](https://3.bp.blogspot.com/-aBgFe94_T6Y/XLp-h44SVUI/AAAAAAAAE_I/mjigApk0-IoVuHx3QIqMsk0gWjYjNKtvgCLcBGAs/s1600/text_sony.png)
+
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
