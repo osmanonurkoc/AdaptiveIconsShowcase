@@ -42,18 +42,28 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 ## **ICON PACKS:**
 ![](https://3.bp.blogspot.com/-IF1fZfzh9_g/XLpxi0oNHyI/AAAAAAAAE9M/eMk0XmPXnlk2oJfRIcRJqyUXRu6Nu2JzgCLcBGAs/s1600/logo.png)
 
+![](https://1.bp.blogspot.com/-MhNcWfIHKm8/XLp7lFXeorI/AAAAAAAAE-M/RO_T1yFnIm8puyExDwEf0kXdlEGgXzXnACLcBGAs/s1600/header_papirus.png)
 
-<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://1.bp.blogspot.com/-MhNcWfIHKm8/XLp7lFXeorI/AAAAAAAAE-M/RO_T1yFnIm8puyExDwEf0kXdlEGgXzXnACLcBGAs/s1600/header_papirus.png"></a> <a href=""><img src="https://2.bp.blogspot.com/-fxIchXplrmk/XLp2dO4bbJI/AAAAAAAAE9Y/sxIwL1tCIOoej4hqD1lRZmOEQBkfyZ10gCLcBGAs/s1600/papirus.png"></a>
+![](https://1.bp.blogspot.com/-GOqYoA7tIiw/XLp-hfbainI/AAAAAAAAE_A/RI6LrF5XglMG3k1RYSVcm0r4QYHhRJD9ACLcBGAs/s1600/text_papirus.png)
 
-   <a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
 
-    Asus Adaptive    - Asus ZenuUI™ 4 and 5 icons and fully adaptive.
 
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
+![](https://1.bp.blogspot.com/-8DKZo6vRvVc/XLp7jvGzSnI/AAAAAAAAE98/spOPg_pKKTIEu_owZMfUaNbg0BYXQe0xACLcBGAs/s1600/header_asus.png)
 
-    LG Adaptive      - LG Icons are fully adaptive!
+![](https://2.bp.blogspot.com/-75KYT5TG7LA/XLp-gdXhFzI/AAAAAAAAE-w/7sLk5DrqpPIZlAYAJW8M9s9VOUXepj4twCLcBGAs/s1600/text_asus.png)
 
-   [                                            download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)  
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
+
+
+![](https://2.bp.blogspot.com/-28NrQh9w6_8/XLp7jvesCpI/AAAAAAAAE-A/_t8-tQeJx483TSYEYw9O8ioRc2vJSKJMwCLcBGAs/s1600/header_lg.png)
+
+![](https://2.bp.blogspot.com/-SXAD844_ess/XLp-geZYdwI/AAAAAAAAE-4/h8vzqZ8EU9gDsW6KTgjEWJQg3vnkwR3mACLcBGAs/s1600/text_lg.png)
+
+<a href="https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg"><img src="https://4.bp.blogspot.com/-tPLRPfi0w0E/XLp5WdkCsWI/AAAAAAAAE9w/QHu7JPQhOQEsQW93pDdn-rIG2s6_PMQ1wCLcBGAs/s1600/download.png"></a>
+
+   
+   
 
     MIUI Adaptive    - MIUI™ icons are material and adaptive.
 
