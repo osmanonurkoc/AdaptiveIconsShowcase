@@ -88,6 +88,6 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 **A:** Adaptive icons are introduced in Android 8.0. So, The Icon Pack only works on Android 8.0+ Devices.  
   
 **Q: Why it is not working on my device?**  
-**A:** It mainly works on AOSP Android 8.0 Based Firmware (Lineage OS, Resurrection Remix, AEX etc.). It's not guaranteed that the icon pack will work on Devices with Custom Shell. It's not the problem of Icon Pack, It's the Problem of OEM. By the way, you can get refund.
+**A:** It mainly works on AOSP Android 8.0 Based Firmware (Lineage OS, Resurrection Remix, AEX etc.). It's not guaranteed that the icon pack will work on Devices with Custom Shell. It's not the problem of Icon Pack, It's the Problem of OEM.
 
 
